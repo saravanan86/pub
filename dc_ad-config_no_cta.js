@@ -1,7 +1,7 @@
 [
 {
 "doubleclickEnabled":"true",
-"doubleClickStaticAdSiteId":"android_test_app",
+"doubleClickStaticAdAppId":"android_test_app",
 "doubleclickKeyValues":"",
 "doubleclickUseExternalBrowser":"true",
 "doubleClickStaticAdIsCoppaCompliant":"false"
