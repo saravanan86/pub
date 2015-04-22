@@ -25,13 +25,14 @@
 			},
 			"dfpData" : {
 				"metadata" : {
-					"property" : "nick",
-					"hub" : "breaking",
+					"property" : "nick_app",
+					"hub" : "home",
 					"is_main" : true
 				},
 				"mappings" : {
 					"ad-unit" : {
-						"1" : "@property"
+						"1" : "@property",
+						"2" : "@hub"
 					}
 				}		        	
 			}
