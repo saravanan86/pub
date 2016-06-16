@@ -1,0 +1,51 @@
+{
+  "brands": [
+    {
+      "id": "cc",
+      "name": "Comedy Central",
+      "platforms": [
+        {
+          "name": "web",
+          "link": "http://www.cc.com?xrs=vdapi_00_b8a46da8266a88c98c6e2ce69705e265"
+        },
+        {
+          "name": "ios",
+          "link": "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8"
+        },
+        {
+          "name": "android",
+          "link": "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral"
+        }
+      ],
+      "logos": [
+        {
+          "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:egvrenditions:/logos/comedycentral.com/CC_2011-1-line.png",
+          "usage": "default"
+        },
+        {
+          "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:egvrenditions:/logos/comedycentral.com/CC_2011-1-line.jpg"
+        },
+        {
+          "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:egvrenditions:/logos/comedycentral.com/CC_2011-2-line.png"
+        },
+        {
+          "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:egvrenditions:/logos/comedycentral.com/CC_2011-2-line.jpg"
+        },
+        {
+          "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:egvrenditions:/logos/comedycentral.com/cc_app.jpg",
+          "usage": "applogo"
+        }
+      ],
+      "links": [
+        {
+          "rel": "shows",
+          "href": "https://api.viacom.com/contents/v2/brands/cc/shows"
+        },
+        {
+          "rel": "episodes",
+          "href": "https://api.viacom.com/contents/v2/brands/cc/episodes"
+        }
+      ]
+    }
+  ]
+}
