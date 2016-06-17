@@ -1,0 +1,70 @@
+{
+  "response": {
+    "series": [
+      {
+        "mgid": "mgid:arc:series:comedycentral.com:279759a2-ecfd-11e0-aca6-0026b9414f30",
+        "id": "279759a2-ecfd-11e0-aca6-0026b9414f30",
+        "title": "RENO 911!",
+        "description": "The brave men and women of the Washoe County Sheriff's Department give you the 411 on the thin khaki line that keeps Reno, Nevada on the straight and narrow. Led by Lt. Jim Dangle, the officers of RENO 911! attempt to keep the streets safe -- mainly from themselves.",
+        "ratingType": "TVPG",
+        "rating": "TV-14",
+        "episodeCount": 0,
+        "seasonCount": 6,
+        "genre": "comedy",
+        "images": [
+          {
+            "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/TVE_Hub_ShowImage_Reno911.jpg?host=comedycentral",
+            "aspectRatio": "1:1"
+          }
+        ],
+        "platforms": [
+          {
+            "platform": "web",
+            "contentLink": "http://www.cc.com/shows/reno-911-?xrs=vdapi_00_072d8cf52e6d6b26e1e28df068d5c00e",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          },
+          {
+            "platform": "ios",
+            "downloadLink": "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_00_072d8cf52e6d6b26e1e28df068d5c00e",
+            "contentLink": "ccnetworkapp://series/279759a2-ecfd-11e0-aca6-0026b9414f30?xrs=vdapi_00_072d8cf52e6d6b26e1e28df068d5c00e",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          },
+          {
+            "platform": "android",
+            "downloadLink": "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_00_072d8cf52e6d6b26e1e28df068d5c00e",
+            "contentLink": "ccnetworkapp://series/279759a2-ecfd-11e0-aca6-0026b9414f30?xrs=vdapi_00_072d8cf52e6d6b26e1e28df068d5c00e",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          },
+          {
+            "platform": "roku",
+            "contentLink": "entity=series&mgid=mgid:arc:series:comedycentral.com:279759a2-ecfd-11e0-aca6-0026b9414f30&autoplay=false&xrs=vdapi_00_072d8cf52e6d6b26e1e28df068d5c00e",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          }
+        ],
+        "links": [
+          {
+            "rel": "seasons",
+            "href": "https://api.viacom.com/contents/v2/shows/279759a2-ecfd-11e0-aca6-0026b9414f30/seasons"
+          },
+          {
+            "rel": "brand",
+            "href": "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        "brand": {
+          "id": "cc",
+          "name": "comedy central",
+          "url": "http://www.cc.com"
+        }
+      }
+    ]
+  }
+}
