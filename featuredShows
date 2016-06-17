@@ -1,0 +1,83 @@
+{
+  "response": {
+    "series": [
+      {
+        "mgid": "mgid:arc:series:comedycentral.com:d4581379-0309-4d46-878c-f2a204ed0253",
+        "id": "d4581379-0309-4d46-878c-f2a204ed0253",
+        "title": "Kroll Show",
+        "description": "With unforgettable recurring characters like Bobby Bottleservice, the PubLIZity Girls, Ref Jeff, C-Czar and more, Kroll Show skewers our television-obsessed culture and the rabid fan base it breeds. More than just a collection of sketches, it's Nick Kroll's one-of-a-kind take on pop culture and the meaning of celebrity.",
+        "ratingType": "TV-PG",
+        "rating": "TV-14",
+        "episodeCount": 1,
+        "seasonCount": 3,
+        "genre": "comedy",
+        "images": [
+          {
+            "url": "http://1.images.comedycentral.com/images/tve/_river_branded_tiles/1080x720__KROLL_OHHELLO.png",
+            "type": "png",
+            "aspectRatio": "3:2"
+          },
+          {
+            "url": "http://2.images.comedycentral.com/images/tve/_river_branded_tiles/1280x640__KROLL_OHHELLO.png",
+            "type": "png",
+            "aspectRatio": "2:1"
+          },
+          {
+            "url": "http://4.images.comedycentral.com/images/tve/_river_branded_tiles/1280x720__KROLL_OHHELLO.png",
+            "type": "png",
+            "aspectRatio": "16:9"
+          },
+          {
+            "url": "http://2.images.comedycentral.com/images/tve/_river_branded_tiles/1280x1280__KROLL_OHHELLO_v1.png",
+            "type": "png",
+            "aspectRatio": "1:1"
+          }
+        ],
+        "platforms": [
+          {
+            "platform": "web",
+            "contentLink": "http://www.cc.com/shows/nathan-for-you?xrs=vdapi_00_b8a46da8266a88c98c6e2ce69705e265",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          },
+          {
+            "platform": "ios",
+            "downloadLink": "https://itunes.apple.com/us/app/comedy-central/id799551807?mt=8&xrs=vdapi_NA_de5fdd92adc9fb8d8045e5f95c640252",
+            "contentLink": "ccnetworkapp://series/d4581379-0309-4d46-878c-f2a204ed0253?xrs=vdapi_NA_de5fdd92adc9fb8d8045e5f95c640252",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          },
+          {
+            "platform": "android",
+            "downloadLink": "https://play.google.com/store/apps/details?id=com.vmn.android.comedycentral&xrs=vdapi_NA_de5fdd92adc9fb8d8045e5f95c640252",
+            "contentLink": "ccnetworkapp://series/d4581379-0309-4d46-878c-f2a204ed0253?xrs=vdapi_NA_de5fdd92adc9fb8d8045e5f95c640252",
+            "authRequired": "false",
+            "startDate": "2015-03-23T10:58:00Z",
+            "endDate": "9999-12-30T19:00:00Z"
+          }
+        ],
+        "links": [
+          {
+            "rel": "seasons",
+            "href": "https://api.viacom.com/contents/v2/shows/d4581379-0309-4d46-878c-f2a204ed0253/seasons"
+          },
+          {
+            "rel": "episodes",
+            "href": "https://api.viacom.com/contents/v2/shows/d4581379-0309-4d46-878c-f2a204ed0253/episodes"
+          },
+          {
+            "rel": "brand",
+            "href": "https://api.viacom.com/contents/v2/brands/cc"
+          }
+        ],
+        "brand": {
+          "id": "cc",
+          "name": "comedy central",
+          "url": "http://www.cc.com"
+        }
+      }
+    ]
+  }
+}
