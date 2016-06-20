@@ -13,7 +13,23 @@
         "genre": "comedy",
         "images": [
           {
-            "url": "http://mtv.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/cc/TVE_Hub_ShowImage_Reno911.jpg?host=comedycentral",
+            "url": "http://1.images.comedycentral.com/images/tve/_river_branded_tiles/1080x720__KROLL_OHHELLO.png",
+            "type": "png",
+            "aspectRatio": "3:2"
+          },
+          {
+            "url": "http://2.images.comedycentral.com/images/tve/_river_branded_tiles/1280x640__KROLL_OHHELLO.png",
+            "type": "png",
+            "aspectRatio": "2:1"
+          },
+          {
+            "url": "http://4.images.comedycentral.com/images/tve/_river_branded_tiles/1280x720__KROLL_OHHELLO.png",
+            "type": "png",
+            "aspectRatio": "16:9"
+          },
+          {
+            "url": "http://2.images.comedycentral.com/images/tve/_river_branded_tiles/1280x1280__KROLL_OHHELLO_v1.png",
+            "type": "png",
             "aspectRatio": "1:1"
           }
         ],
